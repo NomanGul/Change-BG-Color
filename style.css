@@ -17,6 +17,15 @@ body {
   border-radius: 7px;
 }
 
-.btn:hover{
+.btn:hover {
   background: rgb(0, 0, 0);
+}
+
+.container {
+  text-transform: capitalize;
+  text-align: center;
+}
+
+.hex {
+  font-size: 3rem;
 }
